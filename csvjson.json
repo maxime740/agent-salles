@@ -1,0 +1,74 @@
+[
+  {
+    "Resource Id": 22837303979,
+    "Resource Name": "Amsterdam",
+    "Building Id": "Ping",
+    "Resource Category": "CONFERENCE_ROOM",
+    "Resource Type": "Salle",
+    "Floor Name": 1,
+    "Capacity": 4,
+    "Floor Section": "",
+    "User Visible Description": "",
+    "Description": ""
+  },
+  {
+    "Resource Id": 27313142264,
+    "Resource Name": "Paris",
+    "Building Id": "Ping",
+    "Resource Category": "CONFERENCE_ROOM",
+    "Resource Type": "Salle",
+    "Floor Name": 1,
+    "Capacity": 4,
+    "Floor Section": "",
+    "User Visible Description": "",
+    "Description": ""
+  },
+  {
+    "Resource Id": 3751148284,
+    "Resource Name": "Barcelone",
+    "Building Id": "Ping",
+    "Resource Category": "CONFERENCE_ROOM",
+    "Resource Type": "Salle",
+    "Floor Name": 3,
+    "Capacity": 5,
+    "Floor Section": "",
+    "User Visible Description": "",
+    "Description": ""
+  },
+  {
+    "Resource Id": 63223570274,
+    "Resource Name": "Lisbonne",
+    "Building Id": "Ping",
+    "Resource Category": "CONFERENCE_ROOM",
+    "Resource Type": "Salle",
+    "Floor Name": 1,
+    "Capacity": 8,
+    "Floor Section": "",
+    "User Visible Description": "",
+    "Description": ""
+  },
+  {
+    "Resource Id": 70965102731,
+    "Resource Name": "Berlin",
+    "Building Id": "Pôle-Médias",
+    "Resource Category": "CONFERENCE_ROOM",
+    "Resource Type": "Salle",
+    "Floor Name": "RDC",
+    "Capacity": 8,
+    "Floor Section": "",
+    "User Visible Description": "",
+    "Description": ""
+  },
+  {
+    "Resource Id": 77931025727,
+    "Resource Name": "New York",
+    "Building Id": "Ping",
+    "Resource Category": "CONFERENCE_ROOM",
+    "Resource Type": "Salle",
+    "Floor Name": 3,
+    "Capacity": 8,
+    "Floor Section": "",
+    "User Visible Description": "",
+    "Description": ""
+  }
+]
