@@ -1,7 +1,0 @@
-Resource Id;Resource Name;Building Id;Resource Category;Resource Type;Floor Name;Capacity;Floor Section;User Visible Description;Description
-22837303979;Amsterdam;Ping;CONFERENCE_ROOM;Salle;1;4;;;
-27313142264;Paris;Ping;CONFERENCE_ROOM;Salle;1;4;;;
-3751148284;Barcelone;Ping;CONFERENCE_ROOM;Salle;3;5;;;
-63223570274;Lisbonne;Ping;CONFERENCE_ROOM;Salle;1;8;;;
-70965102731;Berlin;Pôle-Médias;CONFERENCE_ROOM;Salle;RDC;8;;;
-77931025727;New York;Ping;CONFERENCE_ROOM;Salle;3;8;;;
